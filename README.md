@@ -1,6 +1,6 @@
 This is the repository for the African Grey painting with playable sound effects! Originally a Christmas gift for my mom, I wanted a way for her to be reminded of memories from the kitchen of our late family bird with a beautiful image for the wall. Painted by [Gabriella Kostadinova](https://www.gabrielakostadinova.com/), the painting frame contains 3 buttons which play precious sound files that trigger our bird's most popular sayings.
 
-#### The Arduino FX board has trigger pins and internal memory for sound bites, so this also doesn't need any code. A future version may have an arduino script that uses a wifi dongle to listen to the network and trigger sounds from a routine.  
+#### The Arduino FX board has trigger pins and internal memory for sound bites, so this also doesn't need any code. There is a sketch included which allows serial communciation with the board to have more control over sound files and playback. A future version of the circuit may use a wifi module to listen to the network and trigger sounds from a routine.  
 
 ![](https://github.com/Jshulgach/SoundFX-Painting/blob/main/resources/20221225_134808.jpg)
 
